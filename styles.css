@@ -1,0 +1,21 @@
+*{
+    box-sizing:border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Kumbh Sana', sans-serif;
+    scroll-behavior: smooth;
+}
+
+.navbar{
+background: #131313;
+height: 80px;
+display: flex;
+justify-content: center;
+align-items: center;
+font-size: 1.2rem;
+position: sticky;
+top: 0;
+z-index: 99;
+}
+
+.navbar__container
